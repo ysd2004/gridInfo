@@ -36,7 +36,7 @@ For all other years, replace 2001 with one of 2004, 2006, 2008, 2011, 2013, 2016
 | Column No. | Variable Name  | Description                                          |
 |:----:|:------------:|--------------------------------------------------------------|
 | 1  | gridNum  | PRISM grid cell number (on NLCD projection)                        | 
-| 1  | stco     | State and County FIPS code                                         | 
-| 2  | numAg    | Number of agricultural grid cells in a PRISM grid                  | 
-| 3  | numAll   | Number of all grid cells in a PRISM grid                           | 
-| 4  | portion  | numAg / numAll                                                     |
+| 2  | stco     | State and County FIPS code                                         | 
+| 3  | numAg    | Number of agricultural grid cells in a PRISM grid                  | 
+| 4  | numAll   | Number of all grid cells in a PRISM grid                           | 
+| 5  | portion  | numAg / numAll                                                     |
