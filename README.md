@@ -19,7 +19,22 @@ Mississippi State University\
 ====================================
 Please cite this publication;
 
-under construction
+```r
+To cite this data in publications use:
+
+  Yun, Seong D., 2022, "R Data: gridInfo," Data retrieved from the GitHub,
+  url{}.
+
+A BibTeX entry for LaTeX users is
+
+  @misc{,
+    title = {R Data: gridInfo},
+    author = {Seong D. Yun},
+    year = {2022},
+    note = {Data retrieved from the GitHub,
+    \url{}}
+  }
+```
 
 2 Getting started:
 ==================
