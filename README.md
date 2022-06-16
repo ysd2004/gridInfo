@@ -23,7 +23,7 @@ Please cite this publication;
 To cite this data in publications use:
 
   Yun, Seong D., 2022, "R Data: gridInfo," Data retrieved from the GitHub,
-  url{}.
+  \url{https://github.com/ysd2004/gridInfo.git}.
 
 A BibTeX entry for LaTeX users is
 
@@ -32,7 +32,7 @@ A BibTeX entry for LaTeX users is
     author = {Seong D. Yun},
     year = {2022},
     note = {Data retrieved from the GitHub,
-    \url{}}
+    \url{https://github.com/ysd2004/gridInfo.git}}
   }
 ```
 
