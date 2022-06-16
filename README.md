@@ -32,7 +32,7 @@ A BibTeX entry for LaTeX users is
     author = {Seong D. Yun},
     year = {2022},
     note = {Data retrieved from the GitHub,
-    \url{https://github.com/ysd2004/gridInfo.git}}
+    https://github.com/ysd2004/gridInfo.git}
   }
 ```
 
