@@ -1,6 +1,6 @@
 # R Data: gridInfo
 
-[![DOI](https://zendo.org/badge/504020252.svg)](https://zendo.org/badge/latestdoi/504020252)
+[![DOI](https://zenodo.org/badge/504020252.svg)](https://zenodo.org/badge/latestdoi/504020252)
 
 This repository is to share the *R* data providing agricultural weights in *acdc* R-package available at R-CRAN. These weights are the number of agricultural cells (NLCD codes 81 and 82) in the PRISM grids, which are converted to the NLCD projection. The State and County FIPS codes are matched with the county's boundary map of 2017 Agricultural Census.
 
